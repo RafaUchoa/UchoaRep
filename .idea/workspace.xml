@@ -11,13 +11,14 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:Melhorias_no_helloWorld" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1d0f6f2-e21c-4306-bff4-83339e6cd585" name="Default Changelist" comment="Mapeamento no pycharm">
-      <change afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
+    <list default="true" id="a1d0f6f2-e21c-4306-bff4-83339e6cd585" name="Default Changelist" comment="Criando meu hello World">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,11 @@
         <option value="rafauchoa" />
         <option value="Rafael Uchôa" />
       </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -99,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593288521904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Criando meu hello World">
+      <created>1593288777761</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593288777761</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,7 +120,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Melhorias_no_helloWorld" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -115,17 +140,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mapeamento no pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mapeamento no pycharm" />
+    <MESSAGE value="Criando meu hello World" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando meu hello World" />
   </component>
   <component name="WindowStateProjectService">
     <state x="622" y="123" width="666" height="826" key="#HelloWorld" timestamp="1593288736450">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
     <state x="622" y="123" width="666" height="826" key="#HelloWorld/0.27.1920.1011@0.27.1920.1011" timestamp="1593288736450" />
-    <state x="555" y="268" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1593288611597">
+    <state width="948" height="262" key="GridCell.Tab.0.bottom" timestamp="1593288786155">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
-    <state x="555" y="268" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1011@0.27.1920.1011" timestamp="1593288611597" />
+    <state width="948" height="262" key="GridCell.Tab.0.bottom/0.27.1920.1011@0.27.1920.1011" timestamp="1593288786155" />
+    <state width="948" height="262" key="GridCell.Tab.0.center" timestamp="1593288786154">
+      <screen x="0" y="27" width="1920" height="1011" />
+    </state>
+    <state width="948" height="262" key="GridCell.Tab.0.center/0.27.1920.1011@0.27.1920.1011" timestamp="1593288786154" />
+    <state width="948" height="262" key="GridCell.Tab.0.left" timestamp="1593288786153">
+      <screen x="0" y="27" width="1920" height="1011" />
+    </state>
+    <state width="948" height="262" key="GridCell.Tab.0.left/0.27.1920.1011@0.27.1920.1011" timestamp="1593288786153" />
+    <state width="948" height="262" key="GridCell.Tab.0.right" timestamp="1593288786154">
+      <screen x="0" y="27" width="1920" height="1011" />
+    </state>
+    <state width="948" height="262" key="GridCell.Tab.0.right/0.27.1920.1011@0.27.1920.1011" timestamp="1593288786154" />
+    <state x="555" y="268" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1593288844581">
+      <screen x="0" y="27" width="1920" height="1011" />
+    </state>
+    <state x="555" y="268" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1011@0.27.1920.1011" timestamp="1593288844581" />
     <state x="731" y="447" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593287293290">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
