@@ -7,30 +7,38 @@
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1d0f6f2-e21c-4306-bff4-83339e6cd585" name="Default Changelist" comment="Mapeamento no pycharm">
-      <changelist_data name="uchoa" email="" />
-      <change afterPath="$PROJECT_DIR$/.idea/UchoaRep.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
         <option value="uchoa" />
+        <option value="Uchoa" />
         <option value="rafa.uchoa@gmail.com" />
         <option value="RafaUchoa" />
         <option value="rafauchoa" />
-        <option value="Uchoa" />
         <option value="Rafael Uchôa" />
       </list>
     </option>
@@ -45,6 +53,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="UchoaRep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -56,6 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1593287005305</updated>
     </task>
+    <task id="LOCAL-00001" summary="Mapeamento no pycharm">
+      <created>1593288521904</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593288521904</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +118,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Mapeamento no pycharm" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="622" y="123" width="666" height="826" key="#HelloWorld" timestamp="1593288736450">
+      <screen x="0" y="27" width="1920" height="1011" />
+    </state>
+    <state x="622" y="123" width="666" height="826" key="#HelloWorld/0.27.1920.1011@0.27.1920.1011" timestamp="1593288736450" />
+    <state x="555" y="268" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1593288611597">
+      <screen x="0" y="27" width="1920" height="1011" />
+    </state>
+    <state x="555" y="268" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1011@0.27.1920.1011" timestamp="1593288611597" />
     <state x="731" y="447" width="448" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593287293290">
       <screen x="0" y="27" width="1920" height="1011" />
     </state>
